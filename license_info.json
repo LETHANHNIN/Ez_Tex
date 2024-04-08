@@ -62,5 +62,9 @@
     {
         "license_key": "e5f3aa52607f5643d035496cd9f24c1372bfc5bc46c567b3bdc9e3f922e05b16",
         "expiration_date": "2099-12-20"
+    },
+    {
+        "license_key": "15fad6e3f89f212d8dff1da6e0f8bdfbbd732943278ce7e0e02250012d2fa1b2",
+        "expiration_date": "2024-4-24"
     }
 ]
